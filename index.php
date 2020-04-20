@@ -172,7 +172,9 @@ table #button button:hover{box-shadow: 0px 0px 0px #eaeaea;}
 						</div>
 					</div>
 				</div>
-				
+				<div class="footer-block">
+					
+				</div>
 			</div>
 			
 		</div>
