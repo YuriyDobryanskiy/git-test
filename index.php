@@ -143,6 +143,7 @@ table #button button:hover{box-shadow: 0px 0px 0px #eaeaea;}
 }
 .footer-block{
 	outline: 1px solid yellow;
+	border-radius: 15px;
 }
 </style>
 </head>
