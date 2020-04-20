@@ -39,7 +39,7 @@ if(!isset($_SESSION['strLenght'])){
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Check sms</title>
+<title>Check sms len</title>
 <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Caveat|Gabriela" rel="stylesheet">
 
