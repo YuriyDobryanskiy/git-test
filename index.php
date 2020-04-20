@@ -141,6 +141,9 @@ table #button button:hover{box-shadow: 0px 0px 0px #eaeaea;}
     box-shadow: 2px 2px 3px rgba(0,0,0,.1);
 	font-family: 'Gabriela', cursive;
 }
+.footer-block{
+	outline: 1px solid yellow;
+}
 </style>
 </head>
 
